@@ -1,0 +1,12 @@
+Java Script Declaration;
+Is assigning a value to a variable
+eg. var=1
+	console.log(x)
+
+
+Java Script Declaration;
+Is assigning an initial value to a variable.
+
+Java Script defiition;
+Function are in Java Script are defined with the function keywords.
+You can use function declaration or function expression.
